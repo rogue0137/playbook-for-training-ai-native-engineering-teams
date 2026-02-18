@@ -49,7 +49,7 @@ By the end of Week 2 you will:
 
 ## Supporting Materials
 
-- [ ] [No Vibe Coding Checklist](#) — _link TBD_
+- [ ] [No Vibe Coding Checklist](../templates/no-vibe-checklist.md)
 - [ ] [No Vibe Coding Reviewer Checklist](#) — _link TBD_
 - [ ] Accountability Partner Discussion Guide — _link TBD_
 - [ ] Instruction video — _link TBD_
