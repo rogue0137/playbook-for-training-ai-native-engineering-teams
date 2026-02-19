@@ -1,9 +1,13 @@
 # AI Setup & Baseline Survey
 
-This is your personal baseline. Be honest — there are no right answers. We'll come back to these in Week 12 and see what actually changed.
+This is your personal baseline. Be honest — there are no right answers.
+We'll come back to these in Week 12 and see what actually changed.
+
+> In [outcome engineering](https://o16g.com/), the first principle is that
+> you can't dispatch agents toward a destination you haven't mapped.
+> This survey is that map.
 
 **Due:** Friday of Week 1 at 5pm PST
-
 **Estimated time:** ~20 minutes
 
 ## Section 1: About You

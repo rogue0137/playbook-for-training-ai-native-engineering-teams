@@ -2,7 +2,7 @@
 
 Use this checklist for every PR you open starting Week 2.
 
----
+> Ambiguity is the enemy of alignment, and unknown risk is a blocking function. These steps exist to eliminate both before your code ships. ([o16g](https://o16g.com/))
 
 ### Step 1: Check your line count
 
@@ -12,10 +12,8 @@ git diff --stat origin/main
 
 - **Under 500 lines?** Move to Step 2.
 - **Over 500 lines?** Break it up first.
-  - Ask yourself: what's the smallest shippable change here?
+  - What's the smallest shippable change here?
   - Stuck? Ask AI: _"How can I break this PR into logical, incremental changes?"_
-
----
 
 ### Step 2: Write your PR description — no AI
 
@@ -27,7 +25,7 @@ Write it in your own words. Cover:
 - **Risks** — or N/A
 - **What** you want feedback on
 
-If you're stuck, pretend you're explaining it to a teammate who's been out for a week.
+Stuck? Pretend you're explaining it to a teammate who's been out for a week.
 
 **Template:**
 
@@ -41,11 +39,7 @@ How I tested: Manual / unit tests / integration tests / etc.
 Risks: Any potential issues — or N/A
 ```
 
-<!-- Add links to your org's coding standards here -->
-
-Also see: [High Quality Commit Standards](#) _(link TBD)_
-
----
+Also see: [COMPANY High Quality Commit Standards](link)
 
 ### Step 3: Submit your PR
 
@@ -54,8 +48,6 @@ Also see: [High Quality Commit Standards](#) _(link TBD)_
 - Add your human-written description
 - Add the label: `Pilot AI Training Program`
 
----
-
 ### Step 4: Request Copilot review
 
 - Go to your PR page
@@ -63,15 +55,15 @@ Also see: [High Quality Commit Standards](#) _(link TBD)_
 - Click **Reviewers** → select **Copilot** _(if it's not already enabled automatically)_
 - Wait 20–30 seconds — it's not broken, just slow
 
----
-
 ### Step 5: Compare Copilot's read vs. yours
 
 Read Copilot's summary, then fill this out:
 
 ```
 Does Copilot understand WHAT I changed?
-  [ ] YES  [ ] NO  [ ] PARTIALLY — explain:
+  [ ] YES
+  [ ] NO
+  [ ] PARTIALLY — explain:
 
 Did Copilot catch something I didn't mention?
   [ ] YES — what did it catch?
@@ -86,11 +78,9 @@ Mismatch worth sharing?
   [ ] NO — looks aligned
 ```
 
----
-
 ### Step 6: Share interesting mismatches
 
-If you found a mismatch, that's the learning. Take a screenshot and post it in `#ai-pilot-cohort`.
+Found a mismatch? That's the learning. Screenshot it and post in `#ai-pilot-cohort`.
 
 **Worth sharing:**
 
@@ -99,7 +89,5 @@ If you found a mismatch, that's the learning. Take a screenshot and post it in `
 - AI missed the broader context of the change in the codebase
 - Security or performance implications surfaced
 - Scope creep revealed
-
----
 
 > Questions or stuck? Drop them in `#ai-pilot-cohort`

@@ -1,12 +1,12 @@
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 # AI Engineering Pilot Program
 
-<!-- TODO: Fix this; sounds so bad -->
-
-Most engineers aren't going from "no AI" to "full autonomy" overnight. This 12-week async program is for engineers who want to work with AI and agents in a structured, intentional way — not just use Copilot more, but actually design and manage agent workflows that ship better outcomes.
+Most engineers aren't going from "no AI" to "full autonomy" overnight. This 12-week async program is for engineers who want to work with AI and agents in a structured, intentional way — not just use Copilot/Cursor/Claude/w.e. more, but actually design and manage agent workflows that ship better outcomes.
 
 It's grounded in the principles of [o16g (Outcome Engineering)](https://o16g.com/) — a framework for moving beyond software engineering as code production, toward something more capable, faster, and trustworthy than either vibe coding or hand coding.
 
-The mental model I keep coming back to:
+The mental model we'll keep coming back to:
 
 - **Humans** set the intent, define the constraints, and own the risk
 - **Agents** explore the solution space, generate code, and surface options
@@ -19,19 +19,18 @@ This isn't about AI hype. It's about being deliberate.
 This is designed to fit into a real engineering schedule — no mandatory meetings, no synchronous overhead.
 
 - **Duration:** 12 weeks
-- **Cohort:** ~10 engineers, across levels and locations
+- **Cohort:** ~10 engineers, across levels and locations _(scale up if you have the bandwidth to support it)_
 - **Format:** Async-first
 
 Each week includes:
 
 - A short video (5–12 min) to anchor the concept
 - Concrete exercises you can apply directly to your work
-- Optional "build a tool" or "agent org" challenges for those who want to go deeper
 - Optional reading from [Beyond Vibe Coding](https://learning.oreilly.com/library/view/beyond-vibe-coding/9798341634749/) by Addy Osmani
 - A lightweight check-in with an accountability partner
 - Slack sharing and reflection with the cohort
 
-The goal is written artifacts and small experiments over meetings.
+For the most part, the goal is written artifacts and small experiments over meetings.
 
 ## Themes by Month
 
@@ -58,7 +57,7 @@ Month 2 is about expanding where AI shows up in your workflow — not just writi
 The final month zooms out — from using individual tools to orchestrating workflows, reasoning about risk, and figuring out what this all means for your team and org.
 
 - **Week 9: Voice Coding** — Explore conversational workflows and what changes (and what doesn't) when you stop typing
-- **Week 10: Amplifying Expertise** — Teach agents your domain patterns so they produce outputs that actually fit your context
+- **Week 10: Build, Build, Build** — Apply everything from the past 9 weeks to 1–3 real projects; this is where the skills compound into something you can actually ship
 - **Week 11: No-AI Experiment** — Go without for a week; surface the dependencies and gaps you didn't know you had
 - **Week 12: Reflection & Outcomes** — What changed in 12 weeks, and what should your org actually do next?
 
@@ -89,8 +88,6 @@ This isn't about prompt counts or AI adoption metrics. It's about whether things
 Every week has the same basic shape — a small required core, with optional layers for those who want to go deeper.
 
 - **Core Exercises** — Required, but scoped to be realistic; these should fit into a normal week, not blow it up
-- **Agent Orchestration** — Where it makes sense, you'll define explicit roles (planner, implementer, tester, reviewer) inside a single tool like Claude CLI, VS Code Copilot, etc. and practice managing the hand-offs between them
-- **Optional: Build Something** — "Build something that changes your reality" — a PR hygiene checker, an analytics payload validator, whatever solves a real problem you have
 - **Reflection** — What did AI improve? What did it break? What are you changing in your workflow next week?
 
 Your day job stays primary. This program is designed to ride alongside real work, not replace it.

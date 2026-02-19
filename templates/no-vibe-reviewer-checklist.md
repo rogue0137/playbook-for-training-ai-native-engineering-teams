@@ -2,6 +2,8 @@
 
 Use this checklist when reviewing a PR that may contain AI-generated code.
 
+> Agents explore paths, but you own the risk gate. Copilot helps you review faster — it doesn't replace your judgment. ([o16g](https://o16g.com/))
+
 ### Step 1: Check for pilot compliance
 
 - Does the PR have the `Pilot AI Training Program` label? _(only applies if the author is in the pilot)_
@@ -17,9 +19,7 @@ If anything is missing, leave a comment asking the author to follow the no vibe 
 - Wait 20–30 seconds for it to generate
 - Read Copilot's comments and summary **before** you touch the code yourself
 
-Copilot is fast at spotting patterns — use it to decide where to focus your attention, not to replace your judgment.
-
----
+Use it to decide where to focus — not to decide whether to approve.
 
 ### Step 3: Compare the author's description vs. Copilot's summary
 
@@ -33,9 +33,7 @@ Copilot is fast at spotting patterns — use it to decide where to focus your at
 - Copilot flags risks the author didn't — security, performance?
 - Copilot misreads the change entirely — code clarity problem?
 
-If something doesn't line up, ask: _"Copilot flagged X but you didn't mention it — can you clarify?"_
-
----
+If something doesn't line up: _"Copilot flagged X but you didn't mention it — can you clarify?"_
 
 ### Step 4: Work through Copilot's inline comments
 
@@ -57,8 +55,6 @@ For each one:
 - "This could be simplified" — but the current approach is clearer
 - Generic style suggestions that don't match your team's conventions
 
----
-
 ### Step 5: Watch for vibe coding red flags
 
 Even with rules in place, it slips through. Look for:
@@ -69,9 +65,7 @@ Even with rules in place, it slips through. Look for:
 - **Tests that only check the happy path** — no edge cases, no error conditions
 - **Copy-paste patterns** — same structure repeated instead of an abstraction
 
-If you spot it, ask: _"Can you walk me through how this works?"_ or _"Did you test the error case on line X?"_
-
----
+If you spot it: _"Can you walk me through how this works?"_ or _"Did you test the error case on line X?"_
 
 ### Step 6: Check the tests
 
@@ -85,9 +79,7 @@ If the tests look AI-generated:
 - Are the assertions meaningful?
 - Do the test names describe what they're testing?
 
-If unclear, ask: _"These tests pass — but how do they verify [specific behavior]?"_
-
----
+If unclear: _"These tests pass — but how do they verify [specific behavior]?"_
 
 ### Step 7: Leave useful feedback
 
@@ -103,15 +95,11 @@ Skip:
 - Nitpicking style when the logic is sound
 - Blocking PRs over minor issues
 
----
-
 ### Step 8: Make a call
 
 - **Approve** if the code is solid and Copilot's concerns are addressed
 - **Request changes** if there are real issues — security, bugs, vibe coding red flags
 - **Comment** if you have questions but nothing blocking
-
----
 
 ### Where Copilot earns its keep
 
@@ -123,18 +111,15 @@ Skip:
 ### Where it can't help you
 
 - **Business logic** — does this actually solve the right problem?
-- **Team conventions** — Copilot doesn't know your style guide
+- **Team conventions** — Copilot doesn't know your style guide (unless you tell it)
 - **Context-specific decisions** — is this the right approach for _our_ system?
-
----
+- **Owning the outcome** — humans set the intent and own the risk; Copilot never does ([o16g](https://o16g.com/))
 
 ### Share what you find
 
-If Copilot helps you catch something real, take a screenshot and post it in `#ai-pilot-cohort` with what it caught.
+If Copilot catches something real, screenshot it and post in `#ai-pilot-cohort`.
 
 _Example: "Copilot flagged a potential SQL injection I would've missed on first pass. Here's what it looked like."_
-
----
 
 **Questions?** Drop them in `#ai-pilot-cohort`
 

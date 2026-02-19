@@ -2,7 +2,17 @@
 
 ## Focus
 
-You can't engineer outcomes you haven't defined. Before we change anything, we need an honest picture of where you actually are — which tools you're using, how you're using them, and where the gaps and risks already exist. That's the baseline we'll measure everything else against by Week 12.
+This week is about establishing a real baseline before anything changes.
+The cohort can't engineer outcomes they haven't defined — and right now,
+most of them don't have a clear picture of which tools they're actually
+using, how they're using them, or where the gaps and risks already exist.
+That's what the survey captures. It's what you'll measure everything else
+against by Week 12.
+
+This is the first principle of [outcome engineering](https://o16g.com/):
+agents explore paths, but humans define the destination. If the cohort
+doesn't know their destination yet, they're not engineering — they're drifting.
+Your job this week is to get them oriented.
 
 ## Contents
 
@@ -15,18 +25,18 @@ You can't engineer outcomes you haven't defined. Before we change anything, we n
 - [Slack Reminders](#slack-reminders)
 - [DM Scripts](#dm-scripts)
 - [Welcome Video Script](#welcome-video-script-10-min-max)
-- [What to Compile for Week 2 Video Intro](#what-to-compile-for-week-2-video-intro)
 - [Week 1 Success Metrics](#week-1-success-metrics)
-
----
 
 ## Learning Objectives
 
-By the end of Week 1 you will:
+By the end of Week 1 participants will:
 
-- Know which AI tools and models you're actually using, and where they fit (or don't) across your SDLC
-- Have an honest read on where AI is genuinely helping vs. where it's introducing risk or confusion you've been ignoring
-- Be paired with an accountability partner and aligned on what you're both here to change
+- Know which AI tools and models they're actually using, and where they
+  fit (or don't) across their SDLC
+- Have an honest read on where AI is genuinely helping vs. where it's
+  introducing risk or confusion they've been ignoring
+- Be paired with an accountability partner and aligned on what they're
+  both here to change
 
 ## Participant Time Commitment
 
@@ -40,49 +50,61 @@ By the end of Week 1 you will:
 
 ## Supporting Materials
 
-- [ ] [AI Setup Survey](https://forms.gle/He3ozFncMhxDT8yG9)
-- [ ] Welcome Video (10 min max) — _link TBD_
+- [ ] [AI Setup Survey](your link here)
+- [ ] Welcome Video (10 min max) — [video](your link here)
 - [ ] Accountability Partner Discussion Guide — _link TBD_
 
-### Optional Reading — _Beyond Vibe Coding_
+### Optional Reading
+
+**_Beyond Vibe Coding_ by Addy Osmani**
 
 - **Chapter 1** — _Introduction: What Is Vibe Coding?_ — entire chapter
-  - Focus especially on: The AI Coding Spectrum, Different Mindsets, Programming with Intent
-- **Why:** Essential foundation — defines the problem this pilot solves and sets expectations for the 12-week journey.
+  - Focus especially on: The AI Coding Spectrum, Different Mindsets,
+    Programming with Intent
+- **Why:** Essential foundation — defines the problem this pilot solves
+  and sets expectations for the 12-week journey.
 - **Access:** [O'Reilly](https://learning.oreilly.com/library/view/beyond-vibe-coding/9798341634749)
+
+**Outcome Engineering — o16g**
+
+- **What it is:** A 16-principle framework for working with AI as an
+  architect of outcomes, not a writer of code
+- **Why this week:** The survey participants are completing is a direct
+  application of o16g Principle 1 — you can't dispatch agents toward a
+  destination you haven't mapped
+- **Access:** [o16g.com](https://o16g.com)
 
 ## Program Lead: Weekly To-Do List
 
-- [ ] Record and publish welcome video (Loom)
+- [ ] Record and publish welcome video
 - [ ] Send Friday launch email / Slack post
 - [ ] Post Monday Slack message with accountability pairings filled in
 - [ ] Send Tuesday–Friday daily Slack reminders
 - [ ] DM anyone who hasn't completed the survey by Thursday EOD
-- [ ] Friday: compile anonymized survey results for Week 2 cohort landscape
 
-## Friday Pre-Launch Email
+## Friday Pre-Launch Slack/Email
 
 ```
 Subject: AI Engineering Pilot — Week 1 starts Monday
 
 Hi [Cohort],
 
-Welcome to the AI Engineering Pilot. Over the next 12 weeks we're going to move from using AI reactively to designing and managing agent workflows with real intention — and measuring whether it actually made things better.
+We're doing this! Over the next 12 weeks we're moving from using AI reactively to actually designing and managing agent workflows with intention — and measuring whether it makes things better.
 
-This week is about establishing an honest baseline before we change anything.
+First week is simple: establish an honest baseline before we change anything. You can't engineer outcomes you haven't defined.
 
-Here's what to do first:
+Three things to do before Monday:
 
-- 📺 **Watch the welcome video** (10 min): [link]
-- 📝 **Complete the AI Setup Survey** by Friday [DATE] at 5pm PST: [link]
-- 👥 **Meet your accountability partner** — pairings will be posted Monday in #ai-pilot-cohort
+- 📺 Watch the welcome video (10 min): [link]
+- 📝 Complete the AI Setup Survey by Friday [DATE] at 5pm PST: [link]
+- 👥 Accountability partner pairings posted Monday in #ai-pilot-cohort
 
-Worth bookmarking for the program:
-- [Beyond Vibe Coding](https://beyond.addy.ie) by Addy Osmani — optional reading will be suggested each week
+Two things worth bookmarking:
+- [Beyond Vibe Coding](https://beyond.addy.ie) by Addy Osmani — I'll suggest optional reading each week
+- [Outcome Engineering (o16g)](https://o16g.com) — the framework behind how we think about AI and agency in this program
 
-See you Monday.
-— [Your name]
-
+So pumped to do this with you all.
+— [Your name in an email]
 ```
 
 ## Monday Slack Post
@@ -95,7 +117,8 @@ Here's your roadmap for the week:
 📺 Watch the welcome video → [link]
 📝 Complete the AI Setup Survey by Friday [DATE] at 5pm PST → [link]
 👥 Connect with your accountability partner (pairings below)
-💬 Thursday: Share one thing about your AI setup in this thread — tools, habits, something that's working, something that isn't
+💬 Thursday: Share one thing about your AI setup in this thread —
+   tools, habits, something that's working, something that isn't
 
 Accountability pairs:
   Engineer A ↔ Engineer B
@@ -105,7 +128,6 @@ Accountability pairs:
   Engineer I ↔ Engineer J
 
 Questions? Drop them here.
-
 ```
 
 ## Slack Reminders
@@ -133,8 +155,8 @@ What's one interesting thing about your AI setup? 👇
 
 ```
 X/10 surveys complete! Complete the AI Setup Survey today!
-If you do not, expect Krys to set up a meeting with you for next week. 😇
-→ https://forms.gle/He3ozFncMhxDT8yG9
+If you do not, expect [YOUR NAME] to set up a meeting with you for next week. 😇
+→ (link)
 ```
 
 ## DM Scripts
@@ -142,7 +164,7 @@ If you do not, expect Krys to set up a meeting with you for next week. 😇
 ### Survey push
 
 ```
-Hey [Name]! Just checking in — did you get a chance to start the AI Setup
+Hey [NAME]! Just checking in — did you get a chance to start the AI Setup
 Survey? It should only take 15–20 min. Let me know if you have any questions
 or if the Friday deadline doesn't work for you and we can figure something out.
 ```
@@ -150,7 +172,7 @@ or if the Friday deadline doesn't work for you and we can figure something out.
 ### No response at all
 
 ```
-Hey [Name]! Haven't seen you in #ai-pilot-cohort yet this week.
+Hey [NAME]! Haven't seen you in #ai-pilot-cohort yet this week.
 Everything okay? Want to make sure you're set up and connected
 with your partner before we move into Week 2.
 
@@ -161,7 +183,9 @@ Anything I can help with?
 
 ## Welcome Video Script (10 min max)
 
-## Welcome Video Script (10 min max)
+> _The video script uses "you" to address participants directly — that's
+> intentional. Write and record it as if you're speaking to them, not
+> about them. The below is just a suggestion. Update it it accordingly._
 
 ### 0:00–1:30 — Introduction
 
@@ -170,16 +194,24 @@ Anything I can help with?
 
 ### 1:30–4:00 — The Vision
 
-- Orchestrators of agents, not coders with copilots
-- AI amplifies critical thinking, doesn't replace it
+- The shift we're making: from coders with copilots to orchestrators
+  of agents
+- AI amplifies critical thinking — it doesn't replace it
+- Reference [o16g](https://o16g.com): the only truth is the rate of
+  positive change delivered to the customer; we grade agents on outcomes,
+  not output
 - The five elements of change model
-- Show visual of the SDLC loops
+- Show visual of the SDLC loops — point out where AI currently lives
+  for most people (code generation) vs. where it _can_ live
+  (design, review, testing, measurement)
 
 ### 4:00–6:00 — Week 1 Activity
 
-- Screen share the AI Setup Survey _(if Krys does not have this on time, you'll have to do this live with her — you've been warned)_
+- Screen share the AI Setup Survey _(if [YOUR NAME] does not have this on time,
+  you'll have to do this live with [PREFERRED PRONOUN] — you've been warned)_
 - Walk through each section
-- Explain why we're collecting this baseline
+- Explain why we're collecting this baseline: participants can't engineer
+  outcomes they haven't defined — this is o16g Principle 1 in action
 
 ### 6:00–8:00 — Accountability Partnerships
 
@@ -196,6 +228,6 @@ Anything I can help with?
 
 ### Video best practices
 
-- Keep energy high; you're setting the tone for the whole program.
+- Keep energy high — you're setting the tone for the whole program.
 - Screen share the survey while walking through it.
 - Add captions for accessibility and async viewing.
