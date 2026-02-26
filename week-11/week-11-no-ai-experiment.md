@@ -86,7 +86,7 @@ expect and how to respond.
 
 ## Supporting Materials
 
-- [ ] [No AI Reflection Template](../templates/no-ai-reflection.md)
+- [ ] [No AI Reflection Template](./no-ai-reflection.md)
 - [ ] [Accountability Partner Discussion Guide]()
 - [ ] Instruction video — _link TBD_
 

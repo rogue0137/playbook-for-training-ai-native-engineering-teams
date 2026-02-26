@@ -54,8 +54,8 @@ By the end of Week 2 participants will:
 
 ## Supporting Materials
 
-- [ ] [No Vibe Coding Checklist](../templates/no-vibe-checklist.md)
-- [ ] [No Vibe Coding Reviewer Checklist](../templates/no-vibe-reviewer-checklist.md)
+- [ ] [No Vibe Coding Checklist](./no-vibe-checklist.md)
+- [ ] [No Vibe Coding Reviewer Checklist](./no-vibe-reviewer-checklist.md)
 - [ ] Accountability Partner Discussion Guide — _link TBD_
 
 > **Note for program lead:** Get an example screenshot of the GitHub

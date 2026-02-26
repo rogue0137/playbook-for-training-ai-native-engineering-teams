@@ -53,7 +53,7 @@ By the end of Week 6 participants will:
 
 ## Supporting Materials
 
-- [ ] [Design Review Exercise Template](../templates/design-review-exercise.md)
+- [ ] [Design Review Exercise Template](./design-review-exercise.md)
 - [ ] [Accountability Partner Discussion Guide](#) — _link TBD_
 - [ ] Instruction video — _link TBD_
 

@@ -68,7 +68,7 @@ By the end of Week 4 participants will:
 
 ## Supporting Materials
 
-- [ ] [LEARNINGS.md Template](../templates/learnings.md)
+- [ ] [LEARNINGS.md Template](./learnings.md)
 - [ ] Instruction video — _link TBD_
 
 ### Optional Reading

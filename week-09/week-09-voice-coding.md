@@ -54,7 +54,7 @@ By the end of Week 9 participants will:
 
 ## Supporting Materials
 
-- [ ] [Voice Coding Experiment Template](../templates/voice-coding-experiment.md)
+- [ ] [Voice Coding Experiment Template](./voice-coding-experiment.md)
 - [ ] [Accountability Partner Discussion Guide]()
 - [ ] Instruction video — _link TBD_
 

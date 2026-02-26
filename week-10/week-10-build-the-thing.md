@@ -51,7 +51,7 @@ By the end of Week 10 participants will:
 
 ## Supporting Materials
 
-- [ ] [Build Log Template](../templates/build-log.md)
+- [ ] [Build Log Template](./build-log.md)
 - [ ] [Accountability Partner Discussion Guide]() — optional this week
 - [ ] Instruction video — _link TBD_
 

@@ -47,7 +47,7 @@ By the end of Week 3 participants will:
 
 ## Supporting Materials
 
-- [ ] [Context Engineering Exercise Template](../templates/context-exercise.md)
+- [ ] [Context Engineering Exercise Template](./context-exercise.md)
 - [ ] Instruction video — _link TBD_
 
 > **Note for program lead:** Pull 2–3 strong No Vibe Coding examples from

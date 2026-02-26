@@ -54,7 +54,7 @@ By the end of Week 5 participants will:
 
 ## Supporting Materials
 
-- [ ] [Code Reading Exercise Template](../templates/code-reading-exercise.md)
+- [ ] [Code Reading Exercise Template](./code-reading-exercise.md)
 - [ ] [Accountability Partner Discussion Guide](#) — _link TBD_
 - [ ] Instruction video — _link TBD_
 

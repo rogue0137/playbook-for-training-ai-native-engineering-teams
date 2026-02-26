@@ -56,7 +56,7 @@ By the end of Week 7 participants will:
 
 ## Supporting Materials
 
-- [ ] [AI Test Generation Log Template](../templates/ai-test-generation-log.md)
+- [ ] [AI Test Generation Log Template](./ai-test-generation-log.md)
 - [ ] [Accountability Partner Discussion Guide](#) — _link TBD_
 - [ ] Instruction video — _link TBD_
 
