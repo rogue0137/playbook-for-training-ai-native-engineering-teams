@@ -65,6 +65,13 @@ By the end of Week 1 participants will:
   destination you haven't mapped
 - **Access:** [o16g.com](https://o16g.com)
 
+**[Beyond Vibe Coding — Addy Osmani](https://beyond.addy.ie/)**
+
+- **What it is:** A free web resource covering the full AI-assisted
+  development spectrum, from rapid prototyping to production-ready engineering
+- **Why this week:** Defines the problem this pilot solves and sets
+  expectations for the 12-week journey
+
 **Additional Reading**
 
 - [Creating Custom Instructions — GitHub Copilot](https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions#creating-custom-instructions)

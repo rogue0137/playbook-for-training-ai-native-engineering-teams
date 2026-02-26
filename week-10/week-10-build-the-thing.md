@@ -270,7 +270,7 @@ Post it today if you can. Let me know if you're stuck.
 - The engineers who get the most out of AI aren't the ones who
   use it for tasks — they're the ones who use it to build things
   they wouldn't have had time to build otherwise
-- Next week: Week 11 — _link TBD_
+- Next week: Week 11 — No-AI Experiment. You'll put the tools down for a week and find out what you actually learned.
 - Questions? `#ai-pilot-cohort`
 
 ### Video best practices

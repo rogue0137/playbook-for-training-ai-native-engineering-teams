@@ -207,5 +207,31 @@ Findings due Friday. Need help? Let me know.
   4. AI flags: watch history storage growth, need a retention policy
   5. _"What integration risks should I consider?"_
   6. AI identifies: analytics tracking, CDN caching, mobile sync
-- Call it out: \_"AI raised three things I hadn't thought through.
-  I already knew one of them — but two were
+- Call it out: _"AI raised three things I hadn't thought through.
+  I already knew one of them — but two were genuine gaps. That's the
+  value: not replacing your thinking, but pressure-testing it before
+  you build."_
+
+### 6:00–8:00 — The Exercise This Week
+
+- Screen share the design review exercise template
+- Pick a real feature or ticket you're working on — something with
+  enough complexity to have edge cases
+- Run it through AI before writing a line of code
+- Document what it caught, what it missed, and what you decided to
+  do differently
+
+### 8:00–10:00 — Tasks This Week
+
+- Complete the design review exercise for one real feature
+- Share one finding in `#ai-pilot-cohort` by Friday
+- Keep updating your `LEARNINGS.md` — design-phase prompting patterns
+  are worth capturing
+
+### Video best practices
+
+- Use a real design doc or ticket for the demo, even a simplified one.
+  It's far more convincing than a hypothetical.
+- Show yourself disagreeing with an AI suggestion — that models good
+  judgment for participants.
+- Add captions for async viewing.

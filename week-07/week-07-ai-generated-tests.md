@@ -160,5 +160,88 @@ What are you generating tests for? Share in thread:
 Already found an AI test mistake? Share it. 🧵
 
 Common issues so far:
--  Tests pass but don't assert anything meaningful → check e
+-  Tests pass but don't assert anything meaningful → check each assertion manually
 ```
+
+---
+
+## DM Scripts
+
+### Hasn't submitted test log
+
+```
+Hey [Name]! Just checking in — have you had a chance to run AI test
+generation this week and fill out the log?
+
+If you're stuck on what to test, start small — pick one function you
+already have tests for and see what AI adds or misses.
+
+Let me know if you need help getting started.
+```
+
+### No activity in Slack
+
+```
+Hey [Name]! Haven't seen you in #ai-pilot-cohort this week.
+Everything okay?
+
+Week 7 is one of the most important ones — AI-generated tests are
+where a lot of hidden risk lives. Would love to hear what you find.
+
+Let me know if anything is blocking you.
+```
+
+---
+
+## Welcome Video Script (10 min max)
+
+> _The video script uses "you" to address participants directly — that's
+> intentional. Write and record it as if you're speaking to them, not
+> about them._
+
+### 0:00–1:30 — Welcome + Week 6 Recap
+
+- Celebrate design review wins
+- Common theme: _"AI catches edge cases fast — but you still have to
+  know what to do with them"_
+- This week: we turn that same critical eye toward tests
+
+### 1:30–4:00 — The Problem with AI-Generated Tests
+
+- AI generates tests that pass but don't actually test anything
+- Screen share an example: a test with no assertions, or assertions
+  that always return true
+- Reference [o16g](https://o16g.com): you grade agents on outcomes,
+  not output — a passing test suite that doesn't catch bugs is not
+  an outcome
+- The skill this week: reading AI-generated tests the way you'd read
+  AI-generated code — with intent and skepticism
+
+### 4:00–6:00 — LIVE DEMO: AI Test Generation
+
+- Pick a real function from a real codebase
+- Generate tests with your AI tool
+- Walk through each test out loud:
+  - _"What is this actually asserting?"_
+  - _"Does this cover the edge case I care about?"_
+  - _"Would this test catch a real bug?"_
+- Show at least one test that looks right but isn't
+
+### 6:00–8:00 — The Exercise This Week
+
+- Screen share the AI Test Generation Log template
+- Pick one function or module you're working on
+- Generate tests, review them critically, fill out the log
+- Document: what AI got right, what it missed, what you had to add
+
+### 8:00–10:00 — Tasks This Week
+
+- Complete the AI Test Generation Log for at least one function
+- Share one finding in `#ai-pilot-cohort` by Friday
+- Keep updating your `LEARNINGS.md`
+
+### Video best practices
+
+- Show a real example of an AI test that looks good but fails on
+  inspection — it's more convincing than a hypothetical.
+- Add captions for async viewing.

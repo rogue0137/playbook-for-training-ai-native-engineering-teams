@@ -97,6 +97,7 @@ By the end of Week 12 participants will:
 - [Subagents — Claude Code](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
 - [Multi-Agent Workflows — OpenAI Codex](https://developers.openai.com/codex/multi-agent/)
 - [Building world-class engineering teams in the age of AI — The Pragmatic Summit](https://www.youtube.com/watch?v=fYh1CWadxDM&list=PLzwJJv8h-icjtYA5oHmc7g6qU1t4OqDqb)
+- [Company AI Adoption — Will Larson](https://lethain.com/company-ai-adoption/)
 
 ## Program Lead: Weekly To-Do List
 

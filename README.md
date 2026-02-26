@@ -93,31 +93,44 @@ Your day job stays primary. This program is designed to ride alongside real work
 
 ## Repo Layout
 
-<!-- TODO: ask AI to regenerate this once it's done -->
-
 ```text
-  README.md
+README.md
+metrics/
+  prompt-to-create-cohort-metrics-app.md
+week-01/
   week-01-setup-and-baseline.md
+  setup-survey.md
+week-02/
   week-02-no-vibe-coding.md
-  week-03-context-engineering.md
-  week-04-learnings-md.md
-  week-05-code-reading-with-ai.md
+  no-vibe-checklist.md
+  no-vibe-reviewer-checklist.md
+week-03/
+  week-03-context-engineer.md
+  context-exercise.md
+week-04/
+  week-04-your-learnings.md
+  learnings.md
+week-05/
+  week-05-reading-code-with-ai.md
+  code-reading-exercise.md
+week-06/
   week-06-agents-in-design.md
+  design-review-exercise.md
+week-07/
   week-07-ai-generated-tests.md
-  week-08-pair-programming-with-ai.md
+  ai-test-generation-log.md
+week-08/
+  week-08-peer-ai-pair-programming.md
+  ai-pair-programming-session.md
+week-09/
   week-09-voice-coding.md
-  week-10-expertise-amplification.md
+  voice-coding-experiment.md
+week-10/
+  week-10-build-the-thing.md
+  build-log.md
+week-11/
   week-11-no-ai-experiment.md
-  week-12-reflection-and-outcomes.md
-  templates/
-    no-vibe-checklist.md
-    no-vibe-reviewer-checklist.md
-    context-exercise.md
-    design-review-exercise.md
-    code-reading-exercise.md
-    ai-test-log.md
-    pair-programming-session.md
-    voice-coding-experiment.md
-    expertise-amplification.md
-    no-ai-reflection.md
+  no-ai-reflection.md
+week-12/
+  week-12-reflection.md
 ```
