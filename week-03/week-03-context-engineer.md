@@ -37,6 +37,10 @@ By the end of Week 3 participants will:
 - Have run a controlled experiment — minimal context vs. rich context —
   on a real task
 - Know what types of context matter most and how to build them deliberately
+- _(Optional stretch)_ Try writing a Behavior-Driven Development (BDD)
+  spec — a Given/When/Then description of what you want — before prompting
+  AI. This is context engineering at its most structured, and we'll revisit
+  it in Week 7.
 
 ## Participant Time Commitment
 

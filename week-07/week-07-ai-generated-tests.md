@@ -19,8 +19,10 @@ engineering](https://o16g.com/) applied to verification: agents generate,
 humans validate, and the only truth is whether the tests actually catch
 real bugs.
 
-If you wantn to _really_ challenge yourself this week, you could start with the
-tests and then write the code.
+> "But coverage is a floor, not a shield. You can cover every line and still miss the thing that breaks in production: the bad assumption, the untested integration boundary, or the multi-agent coordination failure. In agentic systems, the visible 'bug' is often just the last hole that lined up."
+> — [Ryan Porter, Cybernetic Development](https://anth.us/blog/cybernetic-development/)
+
+If you want to _really_ challenge yourself this week, try **Behavior-Driven Development (BDD)**: write your specs _first_ in plain Given/When/Then language, then let AI implement the tests from those specs. Instead of asking "generate tests for this function," you write: _"Given a logged-out user, When they visit /dashboard, Then they should be redirected to /login"_ — and AI translates your clear intent into test code. It's context engineering applied directly to verification, and it directly solves the "tests that pass but don't test anything" problem.
 
 ## Contents
 
@@ -75,6 +77,10 @@ By the end of Week 7 participants will:
   anything are unmitigated risk wearing a green checkmark; this week
   is about learning to tell the difference
 - **Access:** [o16g.com](https://o16g.com)
+
+**Additional Reading**
+
+- [Cybernetic Development — Ryan Porter](https://anth.us/blog/cybernetic-development/)
 
 ---
 
