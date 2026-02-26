@@ -14,6 +14,9 @@ mapping the territory first. Garbage in, garbage out. Context in, quality
 out. This week participants test that hypothesis with a real task from
 their own backlog.
 
+> "The '100x developer' isn't a better coder; they are a clearer thinker."
+> — [Ryan Porter, Cybernetic Development](https://anth.us/blog/cybernetic-development/)
+
 ## Contents
 
 - [Learning Objectives](#learning-objectives)
@@ -63,6 +66,10 @@ By the end of Week 3 participants will:
 - **Why this week:** The exercise participants are running is a direct
   test of this principle — same task, same agent, different territory maps
 - **Access:** [o16g.com](https://o16g.com)
+
+**Additional Reading**
+
+- [Cybernetic Development — Ryan Porter](https://anth.us/blog/cybernetic-development/)
 
 ## Program Lead: Weekly To-Do List
 
