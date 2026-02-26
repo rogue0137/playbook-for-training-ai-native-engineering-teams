@@ -54,7 +54,7 @@ By the end of Week 8 participants will:
 
 ## Supporting Materials
 
-- [ ] [AI Pair Programming Session Template](./ai-pair-programming-session.md)
+- [ ] [AI Pair Programming Session Template](./peer-ai-pair-programming-session.md)
 - [ ] [Accountability Partner Discussion Guide](#) — _link TBD_
 - [ ] Instruction video — _link TBD_
 
