@@ -50,7 +50,7 @@ By the end of Week 1 participants will:
 
 ## Supporting Materials
 
-- [ ] [AI Setup Survey](your link here)
+- [ ] [AI Setup Survey](../templates/setup-survey.md)
 - [ ] Welcome Video (10 min max) — [video](your link here)
 - [ ] Accountability Partner Discussion Guide — _link TBD_
 
