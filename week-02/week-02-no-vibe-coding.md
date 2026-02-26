@@ -15,6 +15,11 @@ This week introduces three rules that turn AI into a tool participants
 control instead of one that controls them. These rules stay in effect for
 the rest of the program.
 
+> **A note on learning consolidation:** This applies to every reflection,
+> log, and write-up in this program — not just this week. When you're
+> writing down differences and what you learned, write it yourself first.
+> You can always have AI polish it. But write it first.
+
 ## Contents
 
 - [Learning Objectives](#learning-objectives)
@@ -59,16 +64,6 @@ By the end of Week 2 participants will:
 
 ### Optional Reading
 
-**_Beyond Vibe Coding_ by Addy Osmani**
-
-- **Chapter 1** — _Introduction: What Is Vibe Coding?_ — entire chapter
-  _(continue from Week 1)_
-  - Focus especially on: The AI Coding Spectrum, Different Mindsets,
-    Programming with Intent
-- **Why:** Week 1 set the foundation — this week participants put the
-  ideas into practice.
-- **Access:** [O'Reilly](https://learning.oreilly.com/library/view/beyond-vibe-coding/9798341634749)
-
 **Outcome Engineering — o16g**
 
 - **Principle to focus on:** _"Certainty not vibes — encode laws into
@@ -78,6 +73,11 @@ By the end of Week 2 participants will:
 - **Why this week:** The three rules participants are applying this week
   are a direct implementation of these two principles at the PR level
 - **Access:** [o16g.com](https://o16g.com)
+
+**Additional Reading**
+
+- [Navigating AI](https://duion.life/navigating-ai/)
+- [Vibe Code and Git Blame](https://quesma.com/blog/vibe-code-git-blame/)
 
 ## Program Lead: Weekly To-Do List
 

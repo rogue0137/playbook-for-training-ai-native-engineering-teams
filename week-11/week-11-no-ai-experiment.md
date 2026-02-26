@@ -108,6 +108,11 @@ expect and how to respond.
   has been doing that too
 - **Access:** [o16g.com](https://o16g.com)
 
+**Additional Reading**
+
+- [AI Assistance and Coding Skills](https://www.anthropic.com/research/AI-assistance-coding-skills)
+- [Data vs Hype: How Orgs Actually Win with AI — The Pragmatic Summit](https://www.youtube.com/watch?v=LOHgRw43fFk)
+
 ## Program Lead: Weekly To-Do List
 
 - [ ] Pull Week 10 success metrics (see below)

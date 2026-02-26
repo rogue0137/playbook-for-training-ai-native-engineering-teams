@@ -82,6 +82,12 @@ By the end of Week 4 participants will:
   session, they encode it once and let agents read it
 - **Access:** [o16g.com](https://o16g.com)
 
+**Additional Reading**
+
+- [About Agent Skills — GitHub Copilot](https://docs.github.com/en/copilot/concepts/agents/about-agent-skills)
+- [Skills — Claude Code](https://docs.anthropic.com/en/docs/claude-code/skills)
+- [Skills — OpenAI Codex](https://developers.openai.com/codex/skills/)
+
 ## Program Lead: Weekly To-Do List
 
 - [ ] Pull Week 3 success metrics (see below)

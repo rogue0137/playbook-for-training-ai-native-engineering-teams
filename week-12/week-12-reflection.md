@@ -91,6 +91,13 @@ By the end of Week 12 participants will:
 - **Why this week:** Week 12 is the right time to see how much of
   the framework stuck — and to name it explicitly in the reflection
 
+**Additional Reading**
+
+- [Subagents — VS Code Copilot](https://code.visualstudio.com/docs/copilot/agents/subagents)
+- [Subagents — Claude Code](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
+- [Multi-Agent Workflows — OpenAI Codex](https://developers.openai.com/codex/multi-agent/)
+- [Building world-class engineering teams in the age of AI — The Pragmatic Summit](https://www.youtube.com/watch?v=fYh1CWadxDM&list=PLzwJJv8h-icjtYA5oHmc7g6qU1t4OqDqb)
+
 ## Program Lead: Weekly To-Do List
 
 - [ ] Pull Week 11 success metrics (see below)

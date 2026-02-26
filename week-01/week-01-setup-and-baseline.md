@@ -56,15 +56,6 @@ By the end of Week 1 participants will:
 
 ### Optional Reading
 
-**_Beyond Vibe Coding_ by Addy Osmani**
-
-- **Chapter 1** — _Introduction: What Is Vibe Coding?_ — entire chapter
-  - Focus especially on: The AI Coding Spectrum, Different Mindsets,
-    Programming with Intent
-- **Why:** Essential foundation — defines the problem this pilot solves
-  and sets expectations for the 12-week journey.
-- **Access:** [O'Reilly](https://learning.oreilly.com/library/view/beyond-vibe-coding/9798341634749)
-
 **Outcome Engineering — o16g**
 
 - **What it is:** A 16-principle framework for working with AI as an
@@ -73,6 +64,13 @@ By the end of Week 1 participants will:
   application of o16g Principle 1 — you can't dispatch agents toward a
   destination you haven't mapped
 - **Access:** [o16g.com](https://o16g.com)
+
+**Additional Reading**
+
+- [Creating Custom Instructions — GitHub Copilot](https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions#creating-custom-instructions)
+- [Memory and CLAUDE.md — Claude Code](https://docs.anthropic.com/en/docs/claude-code/memory)
+- [AGENTS.md — OpenAI Codex](https://agents.md/)
+- [OpenAI: How AI is reshaping the craft of building software — The Pragmatic Summit](https://www.youtube.com/watch?v=Bo6Gtq3nMXc)
 
 ## Program Lead: Weekly To-Do List
 
@@ -100,7 +98,6 @@ Three things to do before Monday:
 - 👥 Accountability partner pairings posted Monday in #ai-pilot-cohort
 
 Two things worth bookmarking:
-- [Beyond Vibe Coding](https://beyond.addy.ie) by Addy Osmani — I'll suggest optional reading each week
 - [Outcome Engineering (o16g)](https://o16g.com) — the framework behind how we think about AI and agency in this program
 
 So pumped to do this with you all.

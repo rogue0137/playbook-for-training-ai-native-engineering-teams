@@ -56,12 +56,6 @@ By the end of Week 3 participants will:
 
 ### Optional Reading
 
-**_Beyond Vibe Coding_ by Addy Osmani**
-
-- Look for chapters covering prompt design, context windows, or
-  working with AI on real codebases — _confirm chapter before linking_
-- **Access:** [O'Reilly](https://learning.oreilly.com/library/view/beyond-vibe-coding/9798341634749)
-
 **Outcome Engineering — o16g**
 
 - **Principle to focus on:** _"Context before agents — never dispatch

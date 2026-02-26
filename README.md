@@ -26,7 +26,6 @@ Each week includes:
 
 - A short video (5–12 min) to anchor the concept
 - Concrete exercises you can apply directly to your work
-- Optional reading from [Beyond Vibe Coding](https://learning.oreilly.com/library/view/beyond-vibe-coding/9798341634749/) by Addy Osmani
 - A lightweight check-in with an accountability partner
 - Slack sharing and reflection with the cohort
 
