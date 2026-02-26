@@ -121,7 +121,7 @@ week-07/
   ai-test-generation-log.md
 week-08/
   week-08-peer-ai-pair-programming.md
-  ai-pair-programming-session.md
+  peer-ai-pair-programming-session.md
 week-09/
   week-09-voice-coding.md
   voice-coding-experiment.md
