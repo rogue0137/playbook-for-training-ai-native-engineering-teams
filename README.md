@@ -160,3 +160,15 @@ Thanks to everyone who reviewed and shaped this playbook:
 [![maksymilian-majer](https://github.com/maksymilian-majer.png?size=60)](https://github.com/maksymilian-majer)
 [![ryansb](https://github.com/ryansb.png?size=60)](https://github.com/ryansb)
 [![dprats](https://github.com/dprats.png?size=60)](https://github.com/dprats)
+
+## Contributing
+
+Contributions are welcome! This repo follows a fork-and-PR model:
+
+1. **Fork** this repository to your own GitHub account
+2. **Create a branch** on your fork (`git checkout -b my-improvement`)
+3. **Make your changes** and commit them
+4. **Open a pull request** back to this repo — include a short description of what you changed and why
+5. The maintainer (@rogue0137) will review and merge
+
+> ℹ️ Collaborators have read access by default. You don't need write access to contribute — just fork and open a PR.
