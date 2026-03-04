@@ -10,6 +10,8 @@ You are an expert TypeScript developer. Build me a CLI tool that pulls GitHub Co
   2. Engineering manager view (behavioral change and feature adoption)
   3. Program view (individual engineer progress over 12 weeks)
 
+> **Note:** If your org already has GitHub Copilot dashboards that cover executive and EM views, use those instead of building these outputs — this prompt is for orgs where those dashboards don't exist or aren't accessible to the program lead.
+
 ## Tech Stack
 
 - TypeScript

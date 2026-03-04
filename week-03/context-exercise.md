@@ -37,6 +37,7 @@ _Paste or screenshot here._
 
 _Fill this out before you write the prompt — this is the territory map._
 
+- **Role / persona:**
 - **Relevant file(s):**
 - **Tech stack info:**
 - **Existing code patterns:**
@@ -93,3 +94,25 @@ Exercise doc: [link]
 
 The context that mattered most: [1 sentence]
 ```
+
+## Optional Stretch: Context Transfer Prompt
+
+If your session goes off the rails — too many failed attempts, contradictory
+outputs, or you're just not getting anywhere — try this instead of starting
+completely over:
+
+Paste this into your current session:
+
+```
+Write a context transfer prompt for the purposes of starting over in a new
+session. Summarize:
+1. What we were trying to do
+2. What we've learned along the way
+3. What has worked and what hasn't
+4. Any key findings or constraints discovered
+
+Structure it so I can paste it into a new session and pick up where we left off.
+```
+
+Edit the output as needed, then open a fresh session and paste it in.
+You lose the noise. You keep the progress.

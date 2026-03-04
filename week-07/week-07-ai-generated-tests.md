@@ -22,7 +22,7 @@ real bugs.
 > "But coverage is a floor, not a shield. You can cover every line and still miss the thing that breaks in production: the bad assumption, the untested integration boundary, or the multi-agent coordination failure. In agentic systems, the visible 'bug' is often just the last hole that lined up."
 > — [Ryan Porter, Cybernetic Development](https://anth.us/blog/cybernetic-development/)
 
-If you want to _really_ challenge yourself this week, try **Behavior-Driven Development (BDD)**: write your specs _first_ in plain Given/When/Then language, then let AI implement the tests from those specs. Instead of asking "generate tests for this function," you write: _"Given a logged-out user, When they visit /dashboard, Then they should be redirected to /login"_ — and AI translates your clear intent into test code. It's context engineering applied directly to verification, and it directly solves the "tests that pass but don't test anything" problem.
+If you want to _really_ challenge yourself this week, try **Behavior-Driven Development (BDD)**: write your specs _first_ in plain Given/When/Then language, then let AI implement the tests from those specs. Instead of asking "generate tests for this function," you write: _"Given a logged-out user, When they visit /dashboard, Then they should be redirected to /login"_ — and AI translates your clear intent into test code. It's context engineering applied directly to verification, and it directly solves the "tests that pass but don't test anything" problem. Once your specs are written, try following up with: _"What edge cases are missing from these specs?"_ — AI can pressure-test your own coverage before it generates a single test.
 
 ## Contents
 
@@ -244,7 +244,7 @@ Let me know if anything is blocking you.
 
 - Complete the AI Test Generation Log for at least one function
 - Share one finding in `#ai-pilot-cohort` by Friday
-- Keep updating your `LEARNINGS.md`
+- Keep updating your `LEARNINGS.md` — this week in particular: capture any testing patterns, TDD preferences, or rules you want the agent to follow (e.g., always run tests and fix failures before moving on, always include test cases in plans)
 
 ### Video best practices
 

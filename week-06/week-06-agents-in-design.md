@@ -40,6 +40,8 @@ By the end of Week 6 participants will:
   performance, security, customer impact
 - Understand where the human/agent boundary is in design work: agents
   ask, engineers decide
+- Know how to use Plan mode (or explicit "don't make changes" prompting)
+  to keep AI in a discussion-only mode during design conversations
 
 ## Participant Time Commitment
 
@@ -146,8 +148,12 @@ Stuck?
 -  No written design → explain your plan to AI in bullet points
 -  AI responses are too generic → give it your existing architecture,
   tech stack, and constraints
--  AI is suggesting over-engineered solutions → that's normal, you
-  filter what's actually useful; if prompting is the issue, ask in channel
+-  AI is suggesting over-engineered solutions → signals to watch for:
+  new services or layers where a function would do, abstractions with
+  only one use case, options that require rewriting things that already
+  work, or solutions that solve problems you don't have yet. Filter for
+  the simplest option that solves the actual constraint. If you're not
+  sure, ask in channel.
 ```
 
 ## DM Scripts
@@ -195,11 +201,16 @@ Findings due Friday. Need help? Let me know.
 - Reference [o16g](https://o16g.com): humans set the intent and own
   the risk; agents surface what's been missed — this is that principle
   in the design phase
+- **Plan mode:** When you're discussing a design, you want AI thinking
+  alongside you — not making changes. Use your tool's Plan mode (Cursor,
+  Copilot, Claude, or whatever you're using), or just tell the agent
+  explicitly: _"Do not make any edits. We are in discussion only."_
+  This keeps the agent as a design partner instead of a code generator.
 
 ### 3:30–6:00 — LIVE DEMO: AI Design Review
 
 - Screen share a real design doc or ticket _(sanitize as needed)_
-- Example feature: _"Add 'continue watching' to the player"_
+- Example feature: _"Add a 'Continue Watching' button to the video player — when a user returns to a title they didn't finish, surface a button that resumes playback from where they left off, synced across devices"_
 - Walk through the sequence:
   1. _"Here's my design: [paste spec]. What edge cases am I missing?"_
   2. AI flags: multi-device sync conflicts
@@ -224,6 +235,8 @@ Findings due Friday. Need help? Let me know.
 ### 8:00–10:00 — Tasks This Week
 
 - Complete the design review exercise for one real feature
+- **For every suggestion AI makes: ask yourself "do I agree, and why?"**
+  — note at least one thing you pushed back on or decided not to act on
 - Share one finding in `#ai-pilot-cohort` by Friday
 - Keep updating your `LEARNINGS.md` — design-phase prompting patterns
   are worth capturing
@@ -233,5 +246,7 @@ Findings due Friday. Need help? Let me know.
 - Use a real design doc or ticket for the demo, even a simplified one.
   It's far more convincing than a hypothetical.
 - Show yourself disagreeing with an AI suggestion — that models good
-  judgment for participants.
+  judgment for participants. Make it explicit: _"AI flagged this, but
+  I'm not going to act on it because..."_ This is the most important
+  thing you can model.
 - Add captions for async viewing.

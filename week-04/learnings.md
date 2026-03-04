@@ -11,7 +11,9 @@
 >
 > **Tip:** You can ask your agent to help update this file. At the end
 > of a session, try: _"Based on what we just did, what should I add to
-> my LEARNINGS.md?"_
+> my LEARNINGS.md?"_ You can also ask: _"How could I have improved my
+> opening prompt to get to this result faster?"_ — the answer often
+> becomes your next prompt pattern entry.
 
 Last updated: [Date]
 

@@ -32,6 +32,8 @@ session — no manual pasting required. But they affect everyone working in
 that repo, which is why team buy-in matters before checking them in.
 Start local. Graduate to shared when the team is ready.
 
+**Keep it groomed.** Adding context to these files isn't free — every line gets loaded into the agent's context window on every session, which costs tokens and can dilute focus. Periodically review what's in there: remove patterns that no longer apply, consolidate redundancies, and make sure what's in the file is still earning its place. A leaner, more precise file outperforms a longer, stale one.
+
 Hereafter, I'm going to refer to all the above files as the `LEARNINGS.md` files.
 
 ## Contents
@@ -236,6 +238,9 @@ Share 1 entry in #ai-pilot-cohort by Friday. Need help? Let me know.
 ### Video best practices
 
 - Use a real (sanitized) example of a LEARNINGS.md entry when demoing —
-  generic placeholders are less convincing than something real.
+  generic placeholders are less convincing than something real. Sanitize
+  because LEARNINGS.md often contains personal API patterns, proprietary
+  system names, or project-specific details you may not want on screen even
+  in an internal recording.
 - Keep the demo tight; the file itself is simple, the value is in the habit.
 - Add captions for async viewing.

@@ -96,7 +96,7 @@ Hi [Cohort],
 
 We're doing this! Over the next 12 weeks we're moving from using AI reactively to actually designing and managing agent workflows with intention — and measuring whether it makes things better.
 
-First week is simple: establish an honest baseline before we change anything. You can't engineer outcomes you haven't defined.
+First week is simple: establish an honest baseline before we change anything. We can't engineer outcomes we haven't defined.
 
 Three things to do before Monday:
 
@@ -106,6 +106,7 @@ Three things to do before Monday:
 
 Two things worth bookmarking:
 - [Outcome Engineering (o16g)](https://o16g.com) — the framework behind how we think about AI and agency in this program
+- [Beyond Vibe Coding — Addy Osmani](https://beyond.addy.ie/) — defines the problem this pilot solves
 
 So pumped to do this with you all.
 — [Your name in an email]
@@ -211,8 +212,8 @@ Anything I can help with?
 
 ### 4:00–6:00 — Week 1 Activity
 
-- Screen share the AI Setup Survey _(if [YOUR NAME] does not have this on time,
-  you'll have to do this live with [PREFERRED PRONOUN] — you've been warned)_
+- Screen share the AI Setup Survey _(if you do not have this ready on time,
+  you'll have to do this live with me — you've been warned)_
 - Walk through each section
 - Explain why we're collecting this baseline: participants can't engineer
   outcomes they haven't defined — this is o16g Principle 1 in action

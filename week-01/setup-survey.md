@@ -14,6 +14,8 @@ We'll come back to these in Week 12 and see what actually changed.
 
 **1. What is your role?**
 
+<!-- TODO: Replace LEVEL 1/2/3 with your org's actual leveling titles (e.g., SWE I / SWE II / SWE III, or L3 / L4 / L5). Remove levels that don't exist at your company. -->
+
 - [ ] LEVEL 1 Engineer
 - [ ] LEVEL 2 Engineer
 - [ ] LEVEL 3 Engineer
@@ -34,6 +36,7 @@ We'll come back to these in Week 12 and see what actually changed.
 
 `[Short answer]`
 
+<!-- TODO: Replace hub options below with your organization's actual office locations -->
 **4. What is your primary hub?**
 
 - [ ] US
@@ -46,8 +49,12 @@ We'll come back to these in Week 12 and see what actually changed.
 **5. What is your primary IDE or editor?**
 
 - [ ] VS Code
+- [ ] Cursor
 - [ ] IntelliJ / JetBrains
 - [ ] Vim / Neovim
+- [ ] Emacs
+- [ ] Copilot CLI
+- [ ] Claude CLI
 - [ ] Other: **\*\***\_\_\_**\*\***
 
 **6. Which AI coding tools do you currently use? (Select all that apply)**
@@ -55,6 +62,9 @@ We'll come back to these in Week 12 and see what actually changed.
 - [ ] GitHub Copilot (in-editor autocomplete)
 - [ ] GitHub Copilot Chat
 - [ ] Copilot PR Review
+- [ ] GitHub Copilot Coding Agent (issue-to-PR agent)
+- [ ] OpenAI Codex (agentic task runner)
+- [ ] Other GUI-based agent: **\*\***\_\_\_**\*\***
 - [ ] Claude (web or API)
 - [ ] ChatGPT (web or API)
 - [ ] Gemini
@@ -65,8 +75,8 @@ We'll come back to these in Week 12 and see what actually changed.
 
 **7. Which AI models do you use most? (Select all that apply)**
 
-- [ ] GPT-4o / ChatGPT
-- [ ] Claude 3.x (Sonnet, Opus, Haiku)
+- [ ] GPT / ChatGPT
+- [ ] Claude
 - [ ] Gemini
 - [ ] Copilot (underlying model)
 - [ ] I don't know which models I'm using

@@ -37,10 +37,16 @@ By the end of Week 3 participants will:
 - Have run a controlled experiment — minimal context vs. rich context —
   on a real task
 - Know what types of context matter most and how to build them deliberately
+- Recognize when context has gone bad — when accumulated errors, failed
+  attempts, or stale assumptions are actively degrading AI output
 - _(Optional stretch)_ Try writing a Behavior-Driven Development (BDD)
   spec — a Given/When/Then description of what you want — before prompting
   AI. This is context engineering at its most structured, and we'll revisit
   it in Week 7.
+- _(Optional stretch)_ When a session goes off the rails, try a **context
+  transfer prompt**: ask the AI to summarize what you were trying to do,
+  what you've learned, and what has or hasn't worked — then paste that into
+  a fresh session to continue without the accumulated noise.
 
 ## Participant Time Commitment
 
@@ -190,6 +196,10 @@ Due Friday. Need help? Drop it in #ai-pilot-cohort or let me know.
     with our `UserValidator` class in `validators.py`, raise
     `ValidationError` on failure"_
 - The difference in output quality is the point — same agent, different map
+- **Context can also go bad.** When a session accumulates failed attempts,
+  wrong turns, or contradictory instructions, the agent starts working against
+  that noise. If you notice outputs getting worse over a long session, the
+  problem may not be the task — it's the context. Start fresh.
 
 ### 4:30–7:30 — The Context Engineering Exercise
 
@@ -201,6 +211,7 @@ Due Friday. Need help? Drop it in #ai-pilot-cohort or let me know.
   4. Compare outputs side-by-side
   5. Document what context actually made the difference
 - What "rich context" includes:
+  - **Role or persona** — start with _"You are an expert [X]"_ to shape tone and assumptions (e.g., "You are an expert TypeScript developer building a CLI tool")
   - Relevant files or code snippets
   - Tech stack and frameworks
   - Business constraints

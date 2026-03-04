@@ -244,8 +244,11 @@ Link → [template link]
   decompose a problem or specify intent?
 - Theory: speaking tends to make intent more explicit — you narrate
   what you want instead of shortcutting to what you think will work
-- It also exposes unclear thinking fast — if you can't say it out
-  loud coherently, the prompt wasn't going to work anyway
+- It also exposes unclear thinking fast — speaking a prompt out loud
+  often surfaces gaps you'd miss typing. If it takes a few tries to say
+  it clearly, that's normal; the act of trying is part of the practice.
+  _(Some people find writing clearer than speaking — that's valid too,
+  but voice is worth trying at least once)_
 - Practical concerns: open offices, privacy, feeling awkward — all
   valid; there are workarounds
 

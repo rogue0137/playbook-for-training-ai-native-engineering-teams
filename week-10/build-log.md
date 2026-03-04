@@ -31,7 +31,7 @@ _Add rows as needed._
 
 ## What AI Handled Well
 
-_Where did the AI accelerate you? What would have taken longer without it?_
+_Where did AI accelerate you?_
 
 -
 -

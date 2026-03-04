@@ -64,6 +64,7 @@ Even with rules in place, it slips through. Look for:
 - **Ignores existing code** — doesn't use your team's helper functions or patterns
 - **Tests that only check the happy path** — no edge cases, no error conditions
 - **Copy-paste patterns** — same structure repeated instead of an abstraction
+- **Follows deprecated patterns** — uses the old way when your team is actively migrating to a new approach
 
 If you spot it: _"Can you walk me through how this works?"_ or _"Did you test the error case on line X?"_
 
@@ -100,6 +101,14 @@ Skip:
 - **Approve** if the code is solid and Copilot's concerns are addressed
 - **Request changes** if there are real issues — security, bugs, vibe coding red flags
 - **Comment** if you have questions but nothing blocking
+
+### Why the questions are phrased this way
+
+You'll notice the suggested questions throughout this checklist don't say "did AI write this?" or "is this vibe code?" That's intentional.
+
+The goal is to probe understanding, not assign blame. Questions like _"Can you walk me through how this works?"_ and _"Did you test the error case on line X?"_ work whether the author wrote the code by hand, used autocomplete, or let an agent generate the whole thing. They focus on what matters: does the author understand the code and can they stand behind it?
+
+This approach is also more empathetic. Engineers are still figuring out how to use these tools well — accusatory framing creates defensiveness; curiosity creates conversation.
 
 ### Where Copilot earns its keep
 

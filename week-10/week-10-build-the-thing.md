@@ -260,7 +260,8 @@ Post it today if you can. Let me know if you're stuck.
 - Record a demo video when it runs
 - Post demo in `#ai-pilot-cohort` by Friday
 - Keep `LEARNINGS.md` updated — end-to-end orchestration patterns
-  from a real build are worth capturing
+  from a real build are worth capturing; if you add new rules or
+  context this week, share them in `#ai-pilot-cohort`
 
 ### 9:30–10:00 — Why This Matters
 

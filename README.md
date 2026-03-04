@@ -4,6 +4,8 @@
 
 Most engineers aren't going from "no AI" to "full autonomy" overnight. This 12-week async program is for engineers who want to work with AI and agents in a structured, intentional way — not just use Copilot/Cursor/Claude/w.e. more, but actually design and manage agent workflows that ship better outcomes.
 
+By week 12, the goal isn't that you used AI more. It's that you remained the engineer who decided when, how, and whether to trust it.
+
 It's grounded in the principles of [o16g (Outcome Engineering)](https://o16g.com/) — a framework for moving beyond software engineering as code production, toward something more capable, faster, and trustworthy than either vibe coding or hand coding.
 
 The mental model we'll keep coming back to:
@@ -31,6 +33,8 @@ Each week includes:
 
 For the most part, the goal is written artifacts and small experiments over meetings.
 
+> **Optional:** Some cohorts add a recurring **AI office hours** slot — 30 min, optional, no agenda. Engineers drop in to share what's working, what isn't, and what they're figuring out. It's not required, but if your cohort is hungry for it, it's worth the time.
+
 ## Themes by Month
 
 ### Month 1 – Foundations & Discipline
@@ -38,9 +42,9 @@ For the most part, the goal is written artifacts and small experiments over meet
 The first month is about slowing down before speeding up — understanding what your tools are actually doing and building habits that keep you in control.
 
 - **Week 1: Setup & Baseline** — Take stock of how you're currently using AI and what's actually in your stack
-- **Week 2: No Vibe Coding** — Put real guardrails in place: PR size, descriptions, AI review practices
+- **Week 2: No Vibe Coding** — Put real guardrails in place: PR size, descriptions, how to review AI-assisted PRs from others, and linting rules that catch undesired patterns before they enter the codebase
 - **Week 3: Context Engineering** — Better inputs produce better outputs; this week is about designing those inputs deliberately
-- **Week 4: LEARNINGS.md** — Build a persistent "brain" your AI can actually use, so context doesn't die between sessions
+- **Week 4: LEARNINGS.md** — Build a persistent "brain" your AI can actually use (written by you, read by the agent), so context doesn't die between sessions
 
 ### Month 2 – Agents Across the SDLC
 
@@ -79,8 +83,18 @@ This isn't about prompt counts or AI adoption metrics. It's about whether things
 ### Developer Experience
 
 - Less time stuck in code you didn't write and can't read
-- A clearer mental model for when and how to use agents
-- Engineers who can design and debug AI workflows — not just cope with them
+- A clearer mental model for when and how to use agents _(built across weeks 6–8: design, pair programming, and observing your own orchestration habits)_
+- Engineers who can design and debug AI workflows — not just cope with them _(weeks 10 and 12: build something real, then document the full orchestration pipeline)_
+
+### How to Measure This
+
+The weekly metrics in each guide (PR labels applied, exercises completed, Slack participation) are **leading indicators** — they tell you the program is running. The real outcomes require a before/after comparison:
+
+- **Delivery:** Pull average PR size (lines changed) for weeks 1–3 vs weeks 10–12 via the GitHub API. Track time-to-first-PR for any new engineers who onboard during the program.
+- **Quality/Risk:** Track hotfix/revert rate — PRs followed by a "fix the fix" within 48 hours. Also track how many Copilot review flags were acted on vs. ignored over the 12 weeks.
+- **Developer Experience:** Re-run the Week 1 setup survey questions in Week 12 and diff the answers. That before/after comparison is your DX measurement.
+
+> The [metrics app](./metrics/prompt-to-create-cohort-metrics-app.md) tracks Copilot usage signals — a useful leading indicator. The above are the lagging outcomes that actually matter to leadership.
 
 ## Learning Modes
 
@@ -134,3 +148,15 @@ week-11/
 week-12/
   week-12-reflection.md
 ```
+
+## Contributors
+
+Thanks to everyone who reviewed and shaped this playbook:
+
+[![JFramptonCR](https://github.com/JFramptonCR.png?size=60)](https://github.com/JFramptonCR)
+[![nytsua](https://github.com/nytsua.png?size=60)](https://github.com/nytsua)
+[![erin-doyle](https://github.com/erin-doyle.png?size=60)](https://github.com/erin-doyle)
+[![joyebertz](https://github.com/joyebertz.png?size=60)](https://github.com/joyebertz)
+[![maksymilian-majer](https://github.com/maksymilian-majer.png?size=60)](https://github.com/maksymilian-majer)
+[![ryansb](https://github.com/ryansb.png?size=60)](https://github.com/ryansb)
+[![dprats](https://github.com/dprats.png?size=60)](https://github.com/dprats)

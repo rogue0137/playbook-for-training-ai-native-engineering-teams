@@ -8,6 +8,12 @@ what happens when AI generates, a participant pastes, and it ships without
 anyone really understanding what was sent. It's fast, it feels productive,
 and it quietly accumulates risk.
 
+This week applies regardless of where participants are starting from. Some
+will be vibe coding already and need guardrails. Others aren't using AI much
+yet — and these rules are exactly the right foundation to build on before
+they do. And if you're already using AI responsibly and efficiently… teach
+me. No, seriously.
+
 [Outcome engineering](https://o16g.com/) is clear on this: ambiguity is the
 enemy of alignment, and risk without mitigation is a blocking function.
 Vibe coding fails on both counts — it ships ambiguity and hides risk.
