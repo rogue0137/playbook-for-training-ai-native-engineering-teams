@@ -56,7 +56,8 @@ By the end of Week 6 participants will:
 ## Supporting Materials
 
 - [ ] [Design Review Exercise Template](./design-review-exercise.md)
-- [ ] [Accountability Partner Discussion Guide](#) — _link TBD_
+- [ ] [Week 6 AI Survey](https://docs.google.com/forms/d/1-tHuGxOPXuWE86pEdtnbW6KYO3hfllR-aLKhK9xWSEI/copy) — midpoint DX survey
+- [ ] Accountability Partner Discussion Guide — _link TBD_
 - [ ] Instruction video — _link TBD_
 
 > **Note for program lead:** Pull 2–3 strong code reading findings from

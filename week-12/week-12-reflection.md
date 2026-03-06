@@ -63,9 +63,9 @@ By the end of Week 12 participants will:
 
 ## Supporting Materials
 
-- [ ] [Pilot Reflection Form — Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe6IwUQBoNRM3GK8KDovn4TJGqYB7APcV6LnIsMkCZorMBNuw/viewform?usp=publish-editor)
-- [ ] [Final DX Survey](https://docs.google.com/forms/d/1IPXQLqlBpA36l7IItUSoAB4eq9WdXT6Zhq7I0Gabj-c/edit) — same as Week 6
-- [ ] [Accountability Partner Discussion Guide](https://docs.google.com/document/d/1kfAkEYN-RryduNjhQdP6CdAh13gWLeqsXg86Y6qODLo/edit?usp=sharing)
+- [ ] [Pilot Reflection & Leadership Summary](https://docs.google.com/forms/d/1QQJba0_h16yOLFeDjlYRXOmv3pJbJzCxfHdnrLafZFs/copy)
+- [ ] [Final DX Survey](https://docs.google.com/forms/d/15wmjSLda7OeNdn_n4tBMFbh9hpl-xz8Fg5cqReYIvZA/copy) — same as Week 6
+- [ ] Accountability Partner Discussion Guide — _link TBD_
 - [ ] Instruction video — _link TBD_
 
 > **Note for program lead:** Pull the most honest finding from Week 11
