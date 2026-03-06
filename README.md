@@ -2,6 +2,8 @@
 
 # AI Engineering Pilot Program
 
+**Interested in running this program?** [Copy the Interest Form](https://docs.google.com/forms/d/1J35Ium1yicvx3Jf_Vr01g-5cZLMHSkeqIJNJGFBEUMM/copy) to gauge interest in your org.
+
 Most engineers aren't going from "no AI" to "full autonomy" overnight. This 12-week async program is for engineers who want to work with AI and agents in a structured, intentional way — not just use Copilot/Cursor/Claude/w.e. more, but actually design and manage agent workflows that ship better outcomes.
 
 By week 12, the goal isn't that you used AI more. It's that you remained the engineer who decided when, how, and whether to trust it.
