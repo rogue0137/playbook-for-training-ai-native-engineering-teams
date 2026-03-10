@@ -2,7 +2,9 @@
 
 Use this checklist for every PR you open starting Week 2.
 
-> Ambiguity is the enemy of alignment, and unknown risk is a blocking function. These steps exist to eliminate both before your code ships. ([o16g](https://o16g.com/))
+> Ambiguity is the enemy of alignment ([o16g](https://o16g.com/))
+
+And unknown risk is a blocking function. These steps exist to eliminate both before your code ships. 
 
 ### Step 1: Check your line count
 
