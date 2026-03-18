@@ -1,0 +1,146 @@
+:root {
+  font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
+  line-height: 1.45;
+  color: #132032;
+  background: radial-gradient(circle at top right, #e8f2ff, #faf5ea 60%);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: inherit;
+}
+
+.app-shell {
+  display: grid;
+  grid-template-columns: minmax(250px, 320px) 1fr;
+  min-height: 100vh;
+}
+
+.side-nav {
+  border-right: 1px solid #d4d9e0;
+  background: #ffffffcc;
+  backdrop-filter: blur(6px);
+  padding: 1.5rem;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.brand-kicker {
+  margin: 0;
+  color: #2a5cb8;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.74rem;
+}
+
+.side-nav h1 {
+  margin: 0.25rem 0 0.5rem;
+  font-size: 1.5rem;
+}
+
+.brand-copy {
+  margin: 0 0 1rem;
+  color: #42546b;
+  font-size: 0.95rem;
+}
+
+.side-nav nav {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.nav-link {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  text-decoration: none;
+  color: #132032;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  padding: 0.65rem 0.75rem;
+  transition: border-color 120ms ease, background-color 120ms ease;
+}
+
+.nav-link:hover,
+.nav-link:focus-visible {
+  border-color: #9bbcf2;
+  background: #eff5ff;
+  outline: none;
+}
+
+.nav-link.router-link-active {
+  border-color: #2a5cb8;
+  background: #e5efff;
+}
+
+.nav-link small {
+  color: #5b6f8f;
+}
+
+.main-panel {
+  padding: 2rem clamp(1rem, 3vw, 3rem) 3rem;
+}
+
+.content-pane {
+  max-width: 860px;
+}
+
+.content-header {
+  margin-bottom: 1rem;
+}
+
+.eyebrow {
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #2a5cb8;
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.content-header h1 {
+  margin: 0.4rem 0 0;
+  font-size: clamp(1.65rem, 2.8vw, 2.5rem);
+}
+
+.document {
+  background: #ffffffdd;
+  border: 1px solid #dbe4f0;
+  border-radius: 14px;
+  padding: clamp(1rem, 2vw, 2rem);
+}
+
+.document h1,
+.document h2,
+.document h3 {
+  color: #122746;
+}
+
+.document a {
+  color: #0f4ecf;
+}
+
+.empty-copy {
+  color: #42546b;
+}
+
+@media (max-width: 980px) {
+  .app-shell {
+    grid-template-columns: 1fr;
+  }
+
+  .side-nav {
+    position: static;
+    height: auto;
+    border-right: none;
+    border-bottom: 1px solid #d4d9e0;
+  }
+}

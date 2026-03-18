@@ -1,0 +1,47 @@
+{
+  "name": "playbook-for-training-ai-native-engineering-teams",
+  "version": "1.0.0",
+  "description": "Vue SPA for the AI Engineering Pilot Program content.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "npm-run-all -s test:unit",
+    "test:unit": "vitest run --coverage",
+    "test:unit:watch": "vitest",
+    "test:e2e:install": "playwright install chromium",
+    "test:e2e": "playwright test",
+    "test:all": "npm-run-all -s test:unit test:e2e"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogue0137/playbook-for-training-ai-native-engineering-teams.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/rogue0137/playbook-for-training-ai-native-engineering-teams/issues"
+  },
+  "homepage": "https://rogue0137.github.io/playbook-for-training-ai-native-engineering-teams/",
+  "dependencies": {
+    "dompurify": "^3.3.3",
+    "markdown-it": "^14.1.1",
+    "vue": "^3.5.30",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0",
+    "@vitejs/plugin-vue": "^6.0.5",
+    "@vitest/coverage-v8": "^4.1.0",
+    "@vue/test-utils": "^2.4.6",
+    "jsdom": "^29.0.0",
+    "npm-run-all": "^4.1.5",
+    "playwright": "^1.58.2",
+    "typescript": "^5.9.3",
+    "vite": "^8.0.0",
+    "vitest": "^4.1.0"
+  }
+}
